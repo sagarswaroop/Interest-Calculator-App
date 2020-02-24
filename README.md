@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter project.
+It is an simple interest calculator where you can calculate the simple interest.
 
 ## Getting Started
 
